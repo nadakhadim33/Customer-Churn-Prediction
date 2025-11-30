@@ -23,7 +23,3 @@ This project predicts whether a bank customer will leave the bank (churn) or sta
 - Joblib → Saving and loading models  
 
 
-## Steps to Run the Project
-1. **Install Required Libraries**
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn joblib
